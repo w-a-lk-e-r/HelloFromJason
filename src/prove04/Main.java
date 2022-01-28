@@ -12,5 +12,7 @@ public class Main {
         System.out.println("•··············•··············•");
         System.out.println("Hello Jason, my name is Matthew");
         System.out.println("•··············•··············•");
+        
+        System.out.println("Hello Jason, my name is Angelie.");
     }
 }
