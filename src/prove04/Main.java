@@ -15,5 +15,11 @@ public class Main {
 
         System.out.println("................................");
         System.out.println("Hello Jason, my name is Angelie.");
+        System.out.println("................................");
+        
+        System.out.println("...............................");
+        System.out.println("Hello Jason, My name is Israel.");
+        System.out.println("...............................");
+        
     }
 }
