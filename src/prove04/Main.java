@@ -20,10 +20,6 @@ public class Main {
         System.out.println("...............................");
         System.out.println("Hello Jason, My name is Israel.");
         System.out.println("...............................");
-
-        System.out.println("--------------------------");
-        System.out.println("Welcome! Welcome! Welcome!");
-        System.out.println("--------------------------");
         
     }
 }
